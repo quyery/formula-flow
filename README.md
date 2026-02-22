@@ -1,4 +1,4 @@
-# FormulaFlow
+# Pocket Pathway test
 
 FormulaFlow is a Duolingo-style prototype for practicing **Microsoft Excel formulas** through short lessons and interactive challenges. Users choose an exercise, review a quick intro, submit a formula, and get feedback. If they get stuck, they can request an **AI hint**.
 

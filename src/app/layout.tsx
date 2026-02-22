@@ -3,7 +3,7 @@ import type {Metadata} from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'FormulaFlow | Master Microsoft Excel Formulas',
+  title: 'Pocket Pathway test | Master Microsoft Excel Formulas',
   description: 'Practice and master Excel formulas with interactive exercises and real-time grading.',
 };
 
